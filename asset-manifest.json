@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/course-react-burger/static/css/main.1888e2bd.chunk.css",
+    "main.js": "/course-react-burger/static/js/main.29598f76.chunk.js",
+    "main.js.map": "/course-react-burger/static/js/main.29598f76.chunk.js.map",
+    "runtime-main.js": "/course-react-burger/static/js/runtime-main.c57002ac.js",
+    "runtime-main.js.map": "/course-react-burger/static/js/runtime-main.c57002ac.js.map",
+    "static/js/2.5866c4a1.chunk.js": "/course-react-burger/static/js/2.5866c4a1.chunk.js",
+    "static/js/2.5866c4a1.chunk.js.map": "/course-react-burger/static/js/2.5866c4a1.chunk.js.map",
+    "index.html": "/course-react-burger/index.html",
+    "precache-manifest.8c96a47a64e68370315b12c7edc9e1cc.js": "/course-react-burger/precache-manifest.8c96a47a64e68370315b12c7edc9e1cc.js",
+    "service-worker.js": "/course-react-burger/service-worker.js",
+    "static/css/main.1888e2bd.chunk.css.map": "/course-react-burger/static/css/main.1888e2bd.chunk.css.map",
+    "static/js/2.5866c4a1.chunk.js.LICENSE.txt": "/course-react-burger/static/js/2.5866c4a1.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/course-react-burger/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c57002ac.js",
+    "static/js/2.5866c4a1.chunk.js",
+    "static/css/main.1888e2bd.chunk.css",
+    "static/js/main.29598f76.chunk.js"
+  ]
+}
